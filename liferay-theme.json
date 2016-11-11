@@ -1,0 +1,10 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/Users/julian/Projects/bundles/tomcat-7.0.62",
+    "deployPath": "/Users/julian/Projects/bundles/deploy",
+    "url": "http://localhost:8080",
+    "appServerPathTheme": "/Users/julian/Projects/bundles/tomcat-7.0.62/webapps/clean-theme",
+    "deployed": true,
+    "themeName": "clean-theme"
+  }
+}

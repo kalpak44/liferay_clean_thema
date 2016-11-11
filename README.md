@@ -1,1 +1,1 @@
-# liferay_clean_thema
+clean-thema
