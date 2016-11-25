@@ -1,4 +1,4 @@
-# clean bootstrap thema for liferay
+# clean bootstrap thema for liferay 7
 
 ### Tech
 
