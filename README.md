@@ -14,5 +14,5 @@ Dillinger uses a number of open source projects to work properly:
 ### Setup
 
 ```sh
-$ cd dillinger
+$ gulp deploy:gogo
 ```
