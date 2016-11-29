@@ -15,3 +15,15 @@ Dillinger uses a number of open source projects to work properly:
 ```sh
 $ gulp deploy:gogo
 ```
+or can build and paste in the tomcat deploy folder
+```sh
+$ gulp build
+```
+PS. do'nt forget tо refresh modules your Felix Gogo Shell
+
+```sh
+$ telnet 127.0.0.1 11311
+```
+```sh
+$ g! refresh
+```
